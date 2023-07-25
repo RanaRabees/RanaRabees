@@ -5,13 +5,13 @@
 
 <p align="left">
 <a href="https://github.com/RanaRabees?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Sayan-Maity?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RanaRabees?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 </a>
 <a href="https://github.com/RanaRabees?tab=stars">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sayan-Maity?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RanaRabees?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 
   <a href="https://github.com/RanaRabees">
-<img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=Sayan-Maity&style=for-the-badge&color=blue"/>
+<img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=RanaRabees&style=for-the-badge&color=blue"/>
     </a>
 </p>
 
@@ -62,17 +62,18 @@
 
 ## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="42px">&nbsp; My Github Stats ...
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-<br/> -->
+
 
 <p align="center">
-  
+	<a href="#">
+		<img title="RanaRabees Trophies" alt="RanaRabees Trophies" src="https://github-profile-trophy.vercel.app/?username=RanaRabees&theme=radical&no-frame=false&no-bg=false&margin-w=4"/></a>
+<br/><br/>
   <a href="#">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayan Maity's streak" src="https://github-readme-stats.vercel.app/api?username=Sayan-Maity&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true"/></a>
+     <img title="🔥 RanaRabees's streak" alt="RanaRabees's streak" src="https://github-readme-stats.vercel.app/api?username=RanaRabees&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true"/></a>
 <br/><br/>
-  <a href="#"><img alt="Sayan Maity's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Sayan-Maity&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" /></a>
+  <a href="#"><img alt="Sayan Maity's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=RanaRabees&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" /></a>
 <br/><br/>
-  <a href="#"><img alt="Sayan Maity's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Maity&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
+  <a href="#"><img alt="Sayan Maity's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaRabees&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
   
   </p>
   <br/><br/>
@@ -100,7 +101,7 @@
 <div align="center">
 :computer: Made with :heart: by
 
-[Rana Rabees](https://github.com/Sayan-Maity)
+[Rana Rabees](https://github.com/RanaRabees)
 
 You can Support me by buying me a coffee :)
 <p align = "center"><a href=https://www.buymeacoffee.com/RanaRabees"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
