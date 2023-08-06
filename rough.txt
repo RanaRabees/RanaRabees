@@ -1,0 +1,8 @@
+"contentlayer": "^0.1.0",
+"framer-motion": "^10.13.1",
+"next-contentlayer": "^0.1.0",
+
+
+
+"contentlayer/generated": ["./.contentlayer/generated"]
+".contentlayer/generated"
