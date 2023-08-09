@@ -231,7 +231,7 @@
 
 ---
 <div align="center">
-:computer: Made with :heart: by
+:computer: Made by :heart:
 
 [Rana Rabees](https://github.com/RanaRabees)
 
