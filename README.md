@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hero.png"/>
+  <img src="./Hero.png"/>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I am RanaRabees</h1>
 
