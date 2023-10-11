@@ -11,8 +11,8 @@
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RanaRabees?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 
   <a href="https://github.com/RanaRabees">
-<img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=RanaRabees&style=for-the-badge&color=blue"/>
-    </a>
+	<img src="https://komarev.com/ghpvc/?username=RanaRabees&style=for-the-badge&color=blue" alt="profile views" title="Profile views on GitHub"/>
+  </a>
 </p>
 
 <img align="right" width=300 alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
