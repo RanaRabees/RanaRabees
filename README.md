@@ -41,11 +41,14 @@
 </p>
 <!-- activity graph end -->
 
+<!-- Github Stats Start -->
+## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="42px">&nbsp; My Github Stats ...
+
 <p align="center">
     <a href="https://github.com/RanaRabees">
         <img src="https://github-profile-trophy.vercel.app/?username=RanaRabees&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
-
+<!-- Github Stats End -->
 
  ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Languages and Tools ...***
  
@@ -208,28 +211,6 @@
 [![Spider Lab](https://img.shields.io/badge/Spider%20Lab-20232A?style=for-the-badge&logo=Spider%20Lab&logoColor=61DAFB)](https://github.com/RanaRabees)
 [![Sublime](https://img.shields.io/badge/Sublime-20232A?style=for-the-badge&logo=Sublime&logoColor=61DAFB)](https://github.com/RanaRabees)
 [![Atom](https://img.shields.io/badge/Atom-20232A?style=for-the-badge&logo=Atom&logoColor=61DAFB)](https://github.com/RanaRabees)
-
-
-
-
-## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="42px">&nbsp; My Github Stats ...
-
-
-
-<p align="center">
-	<a href="#">
-		<img title="RanaRabees Trophies" alt="RanaRabees Trophies" src="https://github-profile-trophy.vercel.app/?username=RanaRabees&theme=radical&no-frame=false&no-bg=false&margin-w=4"/></a>
-<br/><br/>
-  <a href="#">
-     <img title="🔥 RanaRabees's streak" alt="RanaRabees's streak" src="https://github-readme-stats.vercel.app/api?username=RanaRabees&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true"/></a>
-<br/><br/>
-  <a href="#"><img alt="Sayan Maity's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=RanaRabees&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" /></a>
-<br/><br/>
-  <a href="#"><img alt="Sayan Maity's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaRabees&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
-  
-  </p>
-  <br/><br/>
-
 
 ## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="42" />&nbsp; ***Let's Connect :coffee: ...***
 
