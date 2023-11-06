@@ -12,7 +12,7 @@
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
 	<a href="https://github.com/RanaRabees">
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
-	/a>
+	ِِ</a>
   </p>
 <p align="center">
 <a href="https://github.com/RanaRabees?tab=followers">
