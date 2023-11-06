@@ -5,7 +5,6 @@
 <p align="center">
 	
 <a href=#><img src="github-user-contribution.svg"></a> 
-		<
  </p>
 
  
