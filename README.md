@@ -239,8 +239,35 @@
 
 </p>
 
+---
+
+``` 
+public class CodeBite {
+    public static void main(String[] args) {
+        // 🚀 Striving for perfection, one line of code at a time.
+        while (codeQuality < perfection) {
+            codeQuality++; // Incrementing code quality 🔝
+        }
+
+        // 🌟 Lifelong coder on a journey of constant improvement.
+        while (alive) {
+            eat();  // Fuel for the coding engine 🍕
+            sleep();  // Recharging for epic code adventures 💤
+            code();  // Crafting software magic ✨
+        }
+
+        // 👨‍💻 Proudly crafting elegant solutions in the digital realm.
+        // - RJ's
+    }
+```
+<hr />
+
 ## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="38" />&nbsp; ***A Joke for You ...***
 
+<br><br>
+<div align="center">
+  <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
+</div>
 
 <br><br>
 <div align="center">
