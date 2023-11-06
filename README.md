@@ -2,11 +2,6 @@
   <img src="./Hero.png"/>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I am RanaRabees</h1>
-<p align="center">
-	
-<a href=#><img src="github-user-contribution.svg"></a> 
- </p>
-
  
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
@@ -34,6 +29,23 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:rrabeeshussain@gmail.com'>rrabeeshussain@gmail.com</a><br>
 </p>
+
+<p align="center">
+	<a href=#><img src="github-user-contribution.svg"></a> 
+</p>
+<!-- activity graph start -->
+<p align="center">
+    <a href="https://ranarabees.vercel.app">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanaRabees&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph end -->
+
+<p align="center">
+    <a href="https://github.com/RanaRabees">
+        <img src="https://github-profile-trophy.vercel.app/?username=RanaRabees&column=-1&theme=dracula&layout=compact"width="95%"/> 
+</p>
+
 
  ## <img src="https://media4.giphy.com/media/EYc4JlaJHXrEaSonAj/giphy.gif?cid=ecf05e47cfmfn1zxtc28oeth2y6mh4oahnibjrh3ldkdosza&rid=giphy.gif&ct=s" width="45">&nbsp;&nbsp;***Languages and Tools ...***
  
