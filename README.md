@@ -252,6 +252,7 @@ public class CodeBite {
 
 <br><br>
 <hr />
+
 ## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="38" />&nbsp; ***A Joke for You ...***
 
 <br><br>
