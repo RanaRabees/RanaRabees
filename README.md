@@ -3,13 +3,17 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">, I am RanaRabees</h1>
 <p align="center">
+	
 <a href=#><img src="github-user-contribution.svg"></a> 
+		<
  </p>
 
  
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+	<a href="https://github.com/RanaRabees">
   <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+	/a>
   </p>
 <p align="center">
 <a href="https://github.com/RanaRabees?tab=followers">
@@ -18,9 +22,6 @@
 <a href="https://github.com/RanaRabees?tab=stars">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RanaRabees?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 
-  <a href="https://github.com/RanaRabees">
-	<img src="https://komarev.com/ghpvc/?username=RanaRabees&style=for-the-badge&color=blue" alt="profile views" title="Profile views on GitHub"/>
-  </a>
 </p>
 
 <img align="right" width=300 alt="Unicorn" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
