@@ -222,6 +222,12 @@
 
 ---
 
+<br><br>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzaanUllah-Khan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true&custom_title=AzaanUllah%20Khan%20Contribution%20in%20last%2031%20days)
+
+---
+
 ``` 
 public class CodeBite {
     public static void main(String[] args) {
@@ -260,6 +266,21 @@ public class CodeBite {
 <i><----- Keep CALM and always SMILE  😊 -----></i><br><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
+
+---
+<br><br>
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<br/>
+<div align="center">
+<a href="https://github.com/AzaanUllah-Khan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>  
+ 
 <!-- markdownlint-enable MD033 -->
 
 ---
