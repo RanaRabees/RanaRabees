@@ -34,6 +34,7 @@
 	<a href=#><img src="github-user-contribution.svg"></a> 
 </p>
 <!-- activity graph start -->
+<img 
 <p align="center">
     <a href="https://ranarabees.vercel.app">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanaRabees&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
@@ -170,27 +171,24 @@
 
 <h2><b><i align='center'> 🛠️ FrameWorks: <br> <b /></i></h2>
   
-[![Django](https://camo.githubusercontent.com/5473e0d3006bb7e662bdf754d830a026ce050be61f1cbbd4689783ae49950b93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d2532333039324532302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
-[![Flask](https://camo.githubusercontent.com/43c40e9f61f01e780f4cfed5dafda9e3494310ba1b6ea11e20c4949e556a47c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2d2532333030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
-[![Gatsby](https://camo.githubusercontent.com/9b7982c2f9e3a972e53616030d446d32cb68c46cc7a5d97376126c615063d769/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4761747362792d2532333636333339392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676174736279266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
-[![Next](https://camo.githubusercontent.com/b7395b00d152dc8f19cec61f582369bd580e31b8ed93d34646ec43aa675baa7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
-[![React](https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)](https://github.com/RanaRabees)
-  
+[![Django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=Django&logoColor=61DAFB)]https://github.com/RanaRabees)
+[![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=Flask&logoColor=61DAFB)]https://github.com/RanaRabees)
+[![Gatsby](https://img.shields.io/badge/Gatsby-20232A?style=for-the-badge&logo=Gatsby&logoColor=61DAFB)]https://github.com/RanaRabees)
+[![Next](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=Next&logoColor=61DAFB)]https://github.com/RanaRabees)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB)]https://github.com/RanaRabees)
 
 
 
 <h2><b><i align='center'> ⚙️ Servers: <br> <b /></i></h2>
   
-[![Apache](https://camo.githubusercontent.com/acff88bd2d82eff6ea10c73fbca11dd9cb70137751ef44d5f60879e5899ce37b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6170616368652d2532334434323032392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
-[![Microsoft Sql Server](https://camo.githubusercontent.com/84fa7f6c26f4067f74daaf973dfd43b2547111617349ce2256ed3c42df2b7722/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c25323053657665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465)](https://github.com/RanaRabees)
-  
-
+[![Apache](https://img.shields.io/badge/Apache-20232A?style=for-the-badge&logo=Apache&logoColor=61DAFB)]https://github.com/RanaRabees)
+[![Microsoft Sql Server](https://img.shields.io/badge/Microsoft%Sql%Server-20232A?style=for-the-badge&logo=Microsoft%Sql%Server%&logoColor=61DAFB)]https://github.com/RanaRabees)
 
 
 <h2><b><i align='center'> 📱 Mobile Dev Tools: <br> <b /></i></h2>
   
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/RanaRabees)
-[![Expo](https://camo.githubusercontent.com/21993b10b489d1a96fcc783ca38c6a721b2835a7b99117921f20ad766e8e05e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6578706f2d3143314532343f7374796c653d666f722d7468652d6261646765266c6f676f3d6578706f266c6f676f436f6c6f723d23443034413337 "Expo")](https://github.com/RanaRabees)
+[![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=Expo&logoColor=61DAFB "Expo")](https://github.com/RanaRabees)
   
 
 
@@ -212,39 +210,22 @@
 [![Sublime](https://img.shields.io/badge/Sublime-20232A?style=for-the-badge&logo=Sublime&logoColor=61DAFB)](https://github.com/RanaRabees)
 [![Atom](https://img.shields.io/badge/Atom-20232A?style=for-the-badge&logo=Atom&logoColor=61DAFB)](https://github.com/RanaRabees)
 
-## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="42" />&nbsp; ***Let's Connect :coffee: ...***
-
-<p align="center">
-	
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5BWrKXNH) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088786788881) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-rabees-064830251/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/RanaRabees/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/RanaRabees) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19986124/ranarabees) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RanaVerse786) <br>
-
-</p>
-
----
-
-<br><br>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AzaanUllah-Khan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true&custom_title=AzaanUllah%20Khan%20Contribution%20in%20last%2031%20days)
-
----
-
 ``` 
 public class CodeBite {
     public static void main(String[] args) {
         // 🚀 Striving for perfection, one line of code at a time.
         while (codeQuality < perfection) {
-            codeQuality++; // Incrementing code quality 🔝
+            codeQuality++; // Incrementing code quality 💹
         }
 
         // 🌟 Lifelong coder on a journey of constant improvement.
         while (alive) {
             eat();  // Fuel for the coding engine 🍕
             sleep();  // Recharging for epic code adventures 💤
-            code();  // Crafting software magic ✨
+            code();  // Crafting software magic 👨‍💻
         }
 
         // 👨‍💻 Proudly crafting elegant solutions in the digital realm.
-        // - RJ's
     }
 ```
 <hr />
@@ -271,19 +252,21 @@ public class CodeBite {
 <br><br>
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<br/>
-<div align="center">
-<a href="https://github.com/AzaanUllah-Khan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>  
+<a href="https://randommeme-five.vercel.app"><img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="README Jokes"/></a>
  
+---
 <!-- markdownlint-enable MD033 -->
 
+## <img src="https://media3.giphy.com/media/PriRrJixIzTRwNMsy9/giphy.webp?cid=ecf05e47prikqp6nhcgdngzfu8ymsw05p79fnohthra1rn9w&rid=giphy.webp&ct=s" width="42" />&nbsp; ***Let's Connect :coffee: ...***
+
+<p align="center">
+	
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5BWrKXNH) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088786788881) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-rabees-064830251/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/RanaRabees/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/RanaRabees) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19986124/ranarabees) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RanaVerse786) <br>
+
+</p>
+
 ---
+
 <div align="center">
 :computer: Made by :heart:
 
